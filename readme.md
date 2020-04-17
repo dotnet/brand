@@ -2,7 +2,7 @@
 
 The purpose of these guidelines is to provide a framework for communicating with the .NET developer community and establishing a consistent brand identity. This repo serves as a guide and reference to designers, writers, and developers to create consistent, on-brand content for .NET. 
 
-[.NET Brand Guidelines](dotnet-brand-guidelines.pdf)
+Read the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf).
 
 ## Logo
 
