@@ -28,9 +28,8 @@ You can download it from Google Fonts: [fonts.google.com/specimen/Open+Sans](htt
 
 ## License
 
-Illustrations in the brand repo are licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/brand/blob/master/LICENSE). You may use the artwork to create your own .NET swag items to give away at community events, use the presentation template for your presentations, and use the illustrations and logo to represent .NET in related content, per the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf). The brand guidelines and .NET logo are copyright of the .NET authors. 
+Illustrations in the brand repo are licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/brand/blob/master/LICENSE). You may use the artwork to create your own .NET swag items to give away at community events, use the presentation template for your presentations, and use the illustrations and logo to represent .NET in related content, per the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf). 
+
+The brand guidelines and .NET logo are copyright of the .NET authors. 
 
 The photos in the brand guidelines are all from [unsplash](https://unsplash.com) and are released under the [unsplash license](https://unsplash.com/license).
-
-## Contributing
-You are encouraged to submit your own artwork to the community via the .NET Foundation swag repo here: [dotnet-foundation/swag](https://github.com/dotnet-foundation/swag).
