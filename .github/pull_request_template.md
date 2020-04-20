@@ -1,0 +1,1 @@
+This repo is maintained by the .NET authors. Please submit PRs to contribute your own designs and artwork to the community via the .NET Foundation swag repo here: [dotnet-foundation/swag](https://github.com/dotnet-foundation/swag).
