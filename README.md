@@ -6,9 +6,13 @@ Read the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf).
 
 ## Logo
 
-The .NET logo is one of the most simple and direct visual   representations of the .NET brand. Please read the brand guidelines for proper uses of the logo. 
+The .NET logo is one of the most simple and direct visual representations of the .NET brand. Please read the brand guidelines for proper uses of the logo. 
 
 See the [logo](/logo) folder.
+
+## Color
+
+Official .NET Purple is - #512bd4
 
 ## Illustrations
 These illustrations are more than sketches, they’re stories full of character, delightful surprises—and layers of meaning, many containing the [dotnet-bot](https://github.com/dotnet-bot). The dotnet-bot represents the community that comes with the .NET brand and platform. Dotnet-bot also helps with checking pull-requests on .NET repos. Please read the brand guidelines for proper uses. 
