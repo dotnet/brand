@@ -6,7 +6,7 @@ Read the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf).
 
 ## Logo
 
-The .NET logo is one of the most simple and direct visual   representations of the .NET brand. Please read the brand guidelines for proper uses of the logo. 
+The .NET logo is one of the most simple and direct visual representations of the .NET brand. The .NET logo purple color is #512bd4. Please read the brand guidelines for proper uses of the logo. 
 
 See the [logo](/logo) folder.
 
