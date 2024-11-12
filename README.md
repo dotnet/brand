@@ -2,7 +2,7 @@
 
 The purpose of these guidelines is to provide a framework for communicating with the .NET developer community and establishing a consistent brand identity. This repo serves as a guide and reference to designers, writers, and developers to create consistent, on-brand content for .NET. 
 
-Read the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf).
+Read the [.NET Brand Guidelines](dotnet-styleGuide-2024.pdf).
 
 ## Logo
 
@@ -28,7 +28,7 @@ You can download it from Google Fonts: [fonts.google.com/specimen/Open+Sans](htt
 
 ## License
 
-Illustrations in the brand repo are licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/brand/blob/master/LICENSE). You may use the artwork to create your own .NET swag items to give away at community events, use the presentation template for your presentations, and use the illustrations and logo to represent .NET in related content, per the [.NET Brand Guidelines](dotnet-brand-guidelines.pdf). 
+Illustrations in the brand repo are licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/brand/blob/master/LICENSE). You may use the artwork to create your own .NET swag items to give away at community events, use the presentation template for your presentations, and use the illustrations and logo to represent .NET in related content, per the [.NET Brand Guidelines](dotnet-styleGuide-2024.pdf). 
 
 The .NET brand guidelines and .NET logo are copyright of the .NET authors. 
 
