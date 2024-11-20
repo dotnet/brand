@@ -13,7 +13,7 @@ See the [logo](/logo) folder.
 ## Illustrations
 These illustrations are more than sketches, they’re stories full of character, delightful surprises—and layers of meaning, many containing the [dotnet-bot](https://github.com/dotnet-bot). The dotnet-bot represents the community that comes with the .NET brand and platform. Dotnet-bot also helps with checking pull-requests on .NET repos. Please read the brand guidelines for proper uses. 
 
-See the [dotnet-bot-illustrations](/dotnet-bot-illustrations) folder.
+See the [spot-illustrations](/spot-illustrations) folder.
 
 ## Presentation Template
 You can use the presentation template as a starting point for your presentations to the .NET developer community. It contains type, theme colors, and illustrations that follow the brand guidelines. 
